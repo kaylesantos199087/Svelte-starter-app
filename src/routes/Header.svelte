@@ -32,7 +32,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https:/github.com/kaylesantos199087/kayle_svelte">
+		<a href="https:/github.com/kaylesantos199087/Svelte-starter-app.git">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
